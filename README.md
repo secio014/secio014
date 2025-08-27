@@ -1,4 +1,3 @@
----
 # Hi, I'm Pedro Schmitz Sécio 👋
 
 Software Engineering student at FIAP (since 2024), with a technical background in Development Systems from ETEC Professor Camargo Aranha. I'm learning programming and building practical projects to strengthen my skills.
