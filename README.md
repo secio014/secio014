@@ -19,7 +19,7 @@ Software Engineering student at FIAP (since 2024), with a technical background i
 - **Project‑AdonisJS‑API** – API built with AdonisJS.  
 
 ## About Me
-- 19 years old, São Paulo, SP, Brazil.  
+- 20 years old, São Paulo, SP, Brazil.  
 - Passionate about learning new technologies and applying best development practices.  
 - Always looking for collaborative projects that challenge and help me grow.
 
@@ -50,7 +50,7 @@ Estudante de Engenharia de Software na FIAP (desde 2024), com formação técnic
 - **Project‑AdonisJS‑API** – API construída com AdonisJS.  
 
 ## Mais Sobre Mim
-- 19 anos, São Paulo, SP.  
+- 20 anos, São Paulo, SP.  
 - Apaixonado por aprender novas tecnologias e boas práticas de desenvolvimento.  
 - Em busca constante de colaboração em projetos que agreguem e desafiem.
 
