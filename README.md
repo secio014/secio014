@@ -20,7 +20,8 @@ Software Engineering student at FIAP (since 2024), with a technical background i
 - **Project‑AdonisJS‑API** – API built with AdonisJS.  
 
 ## Personal / Old Profile
-If you want to see my personal and historical projects, check out my old profile:  
+If you want to see my personal and historical projects, check out my old profile and organization:  
+[![GitHub schmitz014](https://img.shields.io/badge/GitHub-schmitz014-black?logo=github&logoColor=white)](https://github.com/schmitz014)  
 [![GitHub Stuuky03](https://img.shields.io/badge/GitHub-Stuuky03-black?logo=github&logoColor=white)](https://github.com/Stuuky03)
 
 ## About Me
@@ -29,7 +30,6 @@ If you want to see my personal and historical projects, check out my old profile
 - Always looking for collaborative projects that challenge and help me grow.
 
 ## Links
-[![GitHub schmitz014](https://img.shields.io/badge/GitHub-schmitz014-black?logo=github&logoColor=white)](https://github.com/schmitz014)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Schmitz-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-schmitz014)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-secio.tech-0e76a8?logo=website&logoColor=white)](https://secio.tech)
 ---
@@ -54,7 +54,8 @@ Estudante de Engenharia de Software na FIAP (desde 2024), com formação técnic
 - **Project‑AdonisJS‑API** – API construída com AdonisJS.  
 
 ## Perfil Pessoal / Antigo
-Se quiser conhecer meus projetos pessoais e históricos, veja meu antigo perfil:  
+Se quiser conhecer meus projetos pessoais e históricos, veja meu antigo perfil e organização:  
+[![GitHub schmitz014](https://img.shields.io/badge/GitHub-schmitz014-black?logo=github&logoColor=white)](https://github.com/schmitz014)  
 [![GitHub Stuuky03](https://img.shields.io/badge/GitHub-Stuuky03-black?logo=github&logoColor=white)](https://github.com/Stuuky03)
 
 ## Mais Sobre Mim
@@ -63,6 +64,5 @@ Se quiser conhecer meus projetos pessoais e históricos, veja meu antigo perfil:
 - Em busca constante de colaboração em projetos que agreguem e desafiem.
 
 ## Links
-[![GitHub schmitz014](https://img.shields.io/badge/GitHub-schmitz014-black?logo=github&logoColor=white)](https://github.com/schmitz014)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Schmitz-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-schmitz014)  
 [![Portfolio](https://img.shields.io/badge/Portfólio-secio.tech-0e76a8?logo=website&logoColor=white)](https://secio.tech)
