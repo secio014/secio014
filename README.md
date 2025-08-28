@@ -1,4 +1,4 @@
-# Hi, I'm Pedro Schmitz Sécio 👋
+# Hi, I'm Pedro Schmitz Sécio 👋 (en 🏴󠁧󠁢󠁥󠁮󠁧󠁿)
 
 Software Engineering student at FIAP (since 2024), with a technical background in Development Systems from ETEC Professor Camargo Aranha. I'm learning programming and building practical projects to strengthen my skills.
 
@@ -32,7 +32,7 @@ If you want to see my personal and historical projects, check out my old profile
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Schmitz-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-schmitz014)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-secio.tech-0e76a8?logo=website&logoColor=white)](https://secio.tech)
 ---
-# Olá, eu sou Pedro Schmitz Sécio👋
+# Olá, eu sou Pedro Schmitz Sécio👋 (pt-BR 🇧🇷)
 
 Estudante de Engenharia de Software na FIAP (desde 2024), com formação técnica em Sistemas de Desenvolvimento pela ETEC Professor Camargo Aranha. Estou aprendendo programação e desenvolvendo projetos práticos visando consolidar meus conhecimentos.
 
