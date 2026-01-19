@@ -1,10 +1,16 @@
 # Hi, I'm Pedro Schmitz Sécio 👋 (en)
 
-Software Engineering student at **FIAP** (since 2024). Currently, I am a **Fullstack Programming Intern at Softon Sistemas Inteligentes**, where I develop robust solutions using **React and Spring Boot**, focusing on **Java and JavaScript**.
+Software Engineering student at **FIAP** (since 2024). Currently, I am a **Fullstack Programming Intern at Softon Sistemas Inteligentes**, where I develop solutions using **React and Spring Boot**, focusing on **Java and JavaScript**.
 
-🚀 **Current Focus:** Strengthening my fullstack skills and exploring the concept of **vibe coding** to create intuitive and high-performance applications.
+🚀 **Current Focus:** Strengthening my fullstack skills and exploring **vibe coding** to create intuitive and high-performance applications.
 
 ⚡ **New study & projects profile:** [secio014](https://github.com/secio014)
+
+## 🎓 Academic Organization
+I am a member of **[FiapudosEAD](https://github.com/FiapudosEAD)**, an academic organization dedicated to developing collaborative software projects.
+
+### 🛠️ Projects & Contributions
+- **[Rede de Alívio](https://github.com/FiapudosEAD/gs-rede-apoio-front)** – A social support platform built with **React**, focused on safe story sharing and community interaction.
 
 ## Learning Areas & Skills
 ![FIAP](https://img.shields.io/badge/FIAP-2024-blue)
@@ -12,13 +18,6 @@ Software Engineering student at **FIAP** (since 2024). Currently, I am a **Fulls
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## Featured Projects
-- **Rede de Alívio** – A social support platform built with React, focused on safe story sharing and community interaction.
-- **Screenmatch Study** – Spring Boot fundamentals project exploring dependency injection and services.
-- **Project‑AdonisJS‑API** – API built with AdonisJS for backend performance studies.
 
 ## About Me
 - 🎂 21 years old.
@@ -40,19 +39,18 @@ Estudante de Engenharia de Software na **FIAP** (desde 2024). Atualmente, sou **
 
 ⚡ **Novo perfil de estudos e projetos:** [secio014](https://github.com/secio014)
 
+## 🎓 Organização Acadêmica
+Faço parte da **[FiapudosEAD](https://github.com/FiapudosEAD)**, uma organização acadêmica onde desenvolvemos projetos de software colaborativos.
+
+### 🛠️ Projetos e Contribuições
+- **[Rede de Alívio](https://github.com/FiapudosEAD/gs-rede-apoio-front)** – Plataforma de apoio social desenvolvida em **React** para compartilhamento seguro de relatos e interação comunitária.
+
 ## Áreas de Estudo & Habilidades
 ![FIAP](https://img.shields.io/badge/FIAP-2024-blue)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## Projetos em Destaque
-- **Rede de Alívio** – Plataforma de apoio social desenvolvida em React para compartilhamento seguro de relatos.
-- **Screenmatch Study** – Projeto prático de fundamentos do Spring Boot (serviços e injeção de dependência).
-- **Project‑AdonisJS‑API** – API construída com AdonisJS para estudos de performance backend.
 
 ## Mais Sobre Mim
 - 🎂 21 anos.
