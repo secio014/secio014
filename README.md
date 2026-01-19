@@ -6,14 +6,24 @@ Software Engineering student at **FIAP** (since 2024). Currently, I am a **Fulls
 
 ⚡ **New study & projects profile:** [secio014](https://github.com/secio014)
 
-## 🎓 Academic Organization
-I am a member of **[FiapudosEAD](https://github.com/FiapudosEAD)**, an academic organization dedicated to developing collaborative software projects.
+## 🎓 Academic Organization & Professional Projects
+I am a member of **[FiapudosEAD](https://github.com/FiapudosEAD)**, an academic organization dedicated to collaborative software, and I also develop solutions for real-world clients.
 
-### 🛠️ Key Contributions within FiapudosEAD
-- **[Challenge Asteria](https://github.com/FiapudosEAD/challenge_asteria_front)** – A sales management dashboard and Point of Sale (POS) system.
+### 🛠️ Key Contributions & Projects
+
+- **[MTSTOOLS](https://github.com/secio014/mtstools)** – **Real Client Project (In Progress)**
+  - A specialized tool for industrial equipment management.
+  - **Live Demo:** [mtstools.vercel.app](https://mtstools.vercel.app)
+
+- **[Rede de Alívio](https://github.com/FiapudosEAD/gs-rede-apoio-front)** – Social support platform for safe story sharing.
   - **Frontend:** Built with React, Vite, and Tailwind CSS.
-  - **Backend:** Robust API developed with Java Spring Boot.
-- **[Rede de Alívio](https://github.com/FiapudosEAD/gs-rede-apoio-front)** – A social support platform built with **React** and **Spring Boot**, focused on safe story sharing.
+    - **Live Demo:** [rede-de-alivio.vercel.app](https://rede-de-alivio-front.vercel.app)
+  - **Backend:** Robust API developed with Java Spring Boot and Oracle Database.
+
+- **[Challenge Asteria](https://github.com/FiapudosEAD/challenge_asteria_front)** – Sales management dashboard and Point of Sale (POS) system.
+  - **Frontend:** Built with React, Vite, and Tailwind CSS.
+    - **Live Demo:** [challenge-asteria.vercel.app](https://challenge-asteria-front.vercel.app)
+  - **Backend:** High-performance API developed with Java Spring Boot.
 
 ## Learning Areas & Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -35,20 +45,30 @@ I am a member of **[FiapudosEAD](https://github.com/FiapudosEAD)**, an academic 
 
 # Olá, eu sou Pedro Schmitz Sécio👋 (pt-BR)
 
-Estudante de Engenharia de Software na **FIAP** (desde 2024). Atualmente, sou **Estagiário de Programação Fullstack na Softon Sistemas Inteligentes**, onde atuo no desenvolvimento de soluções utilizando **React e Spring Boot**, com foco em **Java e JavaScript**.
+Estudante de Engenharia de Software na **FIAP** (desde 2024). Atualmente, sou **Estagiário de Programação Fullstack na Softon Sistemas Inteligentes**, desenvolvendo soluções com **React e Spring Boot**, com foco em **Java e JavaScript**.
 
-🚀 **Foco Atual:** Consolidar minhas habilidades Fullstack e aplicar o conceito de **vibe coding** para um desenvolvimento mais fluido e criativo.
+🚀 **Foco Atual:** Consolidar habilidades Fullstack e aplicar o conceito de **vibe coding** para um desenvolvimento mais fluido e criativo.
 
 ⚡ **Novo perfil de estudos e projetos:** [secio014](https://github.com/secio014)
 
-## 🎓 Organização Acadêmica
-Faço parte da **[FiapudosEAD](https://github.com/FiapudosEAD)**, uma organização académica onde desenvolvemos projetos de software colaborativos.
+## 🎓 Organização Acadêmica e Projetos Profissionais
+Faço parte da **[FiapudosEAD](https://github.com/FiapudosEAD)**, onde desenvolvemos projetos acadêmicos colaborativos, além de atuar em projetos para clientes reais.
 
-### 🛠️ Projetos e Contribuições
-- **[Challenge Asteria](https://github.com/FiapudosEAD/challenge_asteria_front)** – Dashboard de gestão de vendas e pontos de venda (PDV).
+### 🛠️ Principais Contribuições e Projetos
+
+- **[MTSTOOLS](https://github.com/secio014/mtstools)** – **Projeto para Cliente Real (Em andamento)**
+  - Ferramenta especializada para gestão de equipamentos industriais.
+  - **Link do Projeto:** [mtstools.vercel.app](https://mtstools.vercel.app)
+
+- **[Rede de Alívio](https://github.com/FiapudosEAD/gs-rede-apoio-front)** – Plataforma de apoio social para compartilhamento seguro de relatos.
   - **Frontend:** Desenvolvido com React, Vite e Tailwind CSS.
-  - **Backend:** API robusta construída com Java Spring Boot.
-- **[Rede de Alívio](https://github.com/FiapudosEAD/gs-rede-apoio-front)** – Plataforma de apoio social desenvolvida em **React** e **Spring Boot** para partilha segura de relatos.
+    - **Link do Projeto:** [rede-de-alivio.vercel.app](https://rede-de-alivio-front.vercel.app)
+  - **Backend:** API robusta construída com Java Spring Boot e banco de dados Oracle.
+
+- **[Challenge Asteria](https://github.com/FiapudosEAD/challenge_asteria_front)** – Dashboard de gestão de vendas e PDV.
+  - **Frontend:** Desenvolvido com React, Vite e Tailwind CSS.
+    - **Link do Projeto:** [challenge-asteria.vercel.app](https://challenge-asteria-front.vercel.app)
+  - **Backend:** API de alta performance construída com Java Spring Boot.
 
 ## Áreas de Estudo & Habilidades
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
