@@ -38,13 +38,13 @@ I am a member of **[FiapudosEAD](https://github.com/FiapudosEAD)**, an academic 
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Schmitz-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-schmitz014)
-[![Portfolio](https://img.shields.io/badge/Portfolio-secio.tech-0e76a8?logo=website&logoColor=white)](https://secio.tech)
+![Portfolio](https://img.shields.io/badge/Portfolio-secio.tech-0e76a8?logo=website&logoColor=white)
 
 ---
 
 # Olá, eu sou Pedro Schmitz Sécio👋 (pt-BR)
 
-Estudante de Engenharia de Software na **FIAP** (desde 2024). Atualmente, sou **Estagiário de Tecnologia na Tokio Marine Seguradora**, desenvolvendo soluções corporativas e aprimorando fluxos tecnológicos.
+Estudante de Engenharia de Software na **FIAP** (desde 2024). Atualmente, sou **Tech Intern na Tokio Marine Seguradora**, desenvolvendo soluções corporativas e aprimorando fluxos tecnológicos.
 
 🚀 **Foco Atual:** Aprofundar meus conhecimentos em **Spring Boot e Angular** para o desenvolvimento de aplicações modernas e de alta performance.
 
@@ -77,9 +77,9 @@ Faço parte da **[FiapudosEAD](https://github.com/FiapudosEAD)**, onde desenvolv
 ## Mais Sobre Mim
 - 🎂 21 anos.
 - 📍 São Paulo, SP.
-- 💼 Estagiário de Tecnologia na **Tokio Marine Seguradora**.
+- 💼 Tech Intern na **Tokio Marine Seguradora**.
 - 🛠️ Experiências anteriores com desenvolvimento Fullstack (Softon), EDI Automotivo (Sintel) e Infraestrutura de Redes (Grupo Multi).
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Schmitz-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-schmitz014)
-[![Portfólio](
+![Portfólio](https://img.shields.io/badge/Portfólio-secio.tech-0e76a8?logo=website&logoColor=white)
