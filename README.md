@@ -38,7 +38,7 @@ I am a member of **[FiapudosEAD](https://github.com/FiapudosEAD)**, an academic 
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Schmitz-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-schmitz014)
-![Portfolio](https://img.shields.io/badge/Portfolio-secio.tech-0e76a8?logo=website&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-pedrosecio.dev-0e76a8?logo=website&logoColor=white)
 
 ---
 
