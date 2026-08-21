@@ -82,4 +82,4 @@ Faço parte da **[FiapudosEAD](https://github.com/FiapudosEAD)**, onde desenvolv
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Schmitz-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-schmitz014)
-![Portfólio](https://img.shields.io/badge/Portfólio-secio.tech-0e76a8?logo=website&logoColor=white)
+[![Portfólio](https://img.shields.io/badge/Portfólio-secio.tech-0e76a8?logo=website&logoColor=white)](https://www.pedrosecio.dev)
